@@ -1,2 +1,2 @@
 # Appchatalka
- Aplikasi Chating
+ Aplikasi Chating yang dibuat untuk Anime Lovers Karawang
