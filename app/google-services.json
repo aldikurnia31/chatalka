@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "851413209702",
+    "firebase_url": "https://cobachat-7b127.firebaseio.com",
+    "project_id": "cobachat-7b127",
+    "storage_bucket": "cobachat-7b127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851413209702:android:eec2f2a55d64662fb553a7",
+        "android_client_info": {
+          "package_name": "com.alkadev.alkachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851413209702-7u1skifqh19li2d9t4oqrdueq6a15us2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW-lHAYIgZRZCjtXjwlTlwCt_1ZX7dYx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851413209702-7u1skifqh19li2d9t4oqrdueq6a15us2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851413209702:android:6797d9822e541945b553a7",
+        "android_client_info": {
+          "package_name": "com.alkadev.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851413209702-v7ug8bmige4pb853c0ugh05m7q44qtfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alkadev.chat",
+            "certificate_hash": "88cf656be894fb0bda9804a7dd2e1ffd000e5513"
+          }
+        },
+        {
+          "client_id": "851413209702-7u1skifqh19li2d9t4oqrdueq6a15us2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW-lHAYIgZRZCjtXjwlTlwCt_1ZX7dYx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851413209702-7u1skifqh19li2d9t4oqrdueq6a15us2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851413209702:android:787adc1fd7935c4fb553a7",
+        "android_client_info": {
+          "package_name": "com.alkadev.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851413209702-6u45mobj0rc4u4b09egeq6uqfktmlkks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alkadev.chatapp",
+            "certificate_hash": "88cf656be894fb0bda9804a7dd2e1ffd000e5513"
+          }
+        },
+        {
+          "client_id": "851413209702-7u1skifqh19li2d9t4oqrdueq6a15us2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW-lHAYIgZRZCjtXjwlTlwCt_1ZX7dYx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851413209702-7u1skifqh19li2d9t4oqrdueq6a15us2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
